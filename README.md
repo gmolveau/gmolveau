@@ -18,3 +18,4 @@
 - [a full black plain background](https://gist.github.com/gmolveau/478790b5f5e290b104090957f76f1b8f)
 - [git rimraf command](https://gist.github.com/gmolveau/3f9f80086cab0d4026fb208631f0d7df)
 - [format files and folder names recursively to be linux friendly](https://github.com/gmolveau/dotfiles/blob/master/bin/fformat)
+- [check if required system dependencies are installed](https://gist.github.com/gmolveau/9d459a2572f467bee0e98435d4907c04)
