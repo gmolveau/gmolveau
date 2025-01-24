@@ -4,7 +4,7 @@
 - [my starred repos](https://github.com/gmolveau/starred)
 - [my dotfiles](https://github.com/gmolveau/dotfiles)
 - [my zsh theme](https://gist.github.com/gmolveau/9b6d98ca0ea5ae897a034c4c1d717e81)
-- [my selfhosted services](https://github.com/gmolveau/selfhosted-apps-docker)
+- [my selfhosted services on my homeserver](https://github.com/gmolveau/selfhosted-apps-docker)
 - [books I've read](https://github.com/gmolveau/books)
 - [free qrcode generator](https://gmolveau.github.io/qrcode/)
 - [my python course](https://github.com/gmolveau/python_full_course)
