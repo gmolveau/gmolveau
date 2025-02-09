@@ -8,6 +8,7 @@
 - [books I've read](https://github.com/gmolveau/books)
 - [free qrcode generator](https://gmolveau.github.io/qrcode/)
 - [my python course](https://github.com/gmolveau/python_full_course)
+- [my flask course (outdated)](https://studentcybermooc.github.io/courses/dev/python/)
 - [vscode offline/airgap backup/restore](https://github.com/gmolveau/vscode_backup_restore)
 - [pocket to wallabag exporter](https://github.com/gmolveau/pocket_to_wallabag)
 - [how to fix docker volume permissions](https://github.com/gmolveau/docker-volume-permissions)
